@@ -18,4 +18,5 @@ Then it's the 'Train_CNN_2D.py' that constructs a simple CNN model to bridge the
 
 ### Wed Presentation
 'inference_api.py' is back end supporting 'index.html' front end to read user's file and feedback the classification result. It's necessary to click the 'echoEngine.bat' to activate conda env before using the web.  
+
 ---
