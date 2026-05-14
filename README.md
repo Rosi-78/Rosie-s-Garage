@@ -1,0 +1,2 @@
+# Rosie-s-Garage
+A Projection involveds a acoustic dataset of 0-9 3D models, data preprocessing code and a 2D CNN Model with 5-Fold Verification.
