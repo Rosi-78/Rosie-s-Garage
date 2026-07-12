@@ -8,4 +8,6 @@
 ## Project2
   Information Theory Honor Curriculum Project requires us to simulate a planet_earth corelated channel multiple receivers communication system to test its property such as outage probability and ergodic capacity. Using kimi coding, we eventually manage this funny task.
 
+---
+
 ## Producing hhh
